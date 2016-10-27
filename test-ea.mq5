@@ -22,7 +22,6 @@ int OnInit()
 void OnDeinit(const int reason)
   {
 //---
-   
   }
 //+------------------------------------------------------------------+
 //| Expert tick function                                             |
